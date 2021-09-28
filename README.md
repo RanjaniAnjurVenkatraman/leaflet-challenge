@@ -2,8 +2,7 @@
 To  visualize USGS earthquake dataset using Leaflet, Mapbox and D3
 
 
-# Visualizing Data with Leaflet
-![Earthquake](https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/images/sn-seismicH.jpg?itok=I-6a0Sri)
+# Leaflet Visualization
 
 ## Deployment Link
 
@@ -26,7 +25,7 @@ Create a map using Leaflet that plots all of the earthquakes from the data set b
 - A legend was created to provide context for the map data
 <p align="center">
   <img src="https://github.com/RanjaniAnjurVenkatraman/leaflet-challenge/blob/main/Images/Leaflet_1.PNG">
-  ![Basic Leaflet](Images/Leaflet_1.PNG.png)	
+  
 </p>
 
 ## Level-2: Advanced Visualization
@@ -38,7 +37,7 @@ Plot a second data set on the map above to illustrate the relationship between t
 - Add layer controls to the map
 <p align="center">
   <img src="https://github.com/RanjaniAnjurVenkatraman/leaflet-challenge/blob/main/Images/Leaflet_2.PNG">
- ![Advanced Leaflet](Images/Leaflet_2.PNG.png)	
+ 	
 </p>
 
 
